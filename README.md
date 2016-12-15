@@ -1,7 +1,7 @@
 # wifi_helper
 This is a menu driven wifi setup tool using nmcli commands. 
 # Install 
-git clone https://github.com/VeggieVampire/wifi_helper 
-cd wifi_helper 
-chmod 777 * 
+git clone https://github.com/VeggieVampire/wifi_helper <br>
+cd wifi_helper <br>
+chmod 777 * <br>
 ./wifi.sh 
