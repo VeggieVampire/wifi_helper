@@ -29,6 +29,7 @@ yourname="Nick"
 		echo "Check if your connection is working"
         #nmcli con up id 'Wireless connection 1'
 		nmcli d
+		sudo ifconfig wlan0
                 printf "\n"
         }
 
