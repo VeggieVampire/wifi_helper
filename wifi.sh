@@ -3,8 +3,6 @@
 #
 # Initial Release: 0
 
-yourname="Nick"
-
 # List the current WiFi connections
         LISTZ()
         {
